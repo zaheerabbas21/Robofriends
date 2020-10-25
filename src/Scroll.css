@@ -1,0 +1,17 @@
+.ScrollAbility{
+    overflow-y: scroll;
+    border-top:1px solid #0ccac4;
+    height: 450px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;    
+}
+
+.ScrollAbility::-webkit-scrollbar{
+    display: none;
+}
+
+@media screen and (max-width:780px){
+    .ScrollAbility{
+        height: 550px;
+    }
+}
