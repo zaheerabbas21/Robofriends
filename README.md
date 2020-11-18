@@ -10,3 +10,7 @@ Follow these steps:
 2. Run `npm install` to build dependencies in the Root directory of the project.
 3. Run `npm start`.
 4. Navigate to `localhost:8080` on your browser.
+
+If you run into any errors, please open an issue if possible
+
+Thank you for checking out the project.
